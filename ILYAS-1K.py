@@ -1,6 +1,6 @@
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://facebook.com/groups/1210513956551911/')
+os.system('xdg-open https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b/')
 print('\n\033[1;37mCHEAKING YOUR PHONE LICENSE...\n \033[1;32mYOUR LICENSE APPROVED...')
 from os import path
 import os,base64,zlib,pip,urllib
@@ -114,7 +114,7 @@ def CRACKafghan():
 			limit = 50000
 		clear()
 		print('\033[1;33m [1] \033[1;33mSUBSCRIB TO CRACK')
-		os.system('xdg-open   https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b')
+		os.system('xdg-open   https://youtube.com/@ILYAS_II?si=rIP7M3o7JuX92C8b)
 		linex()
 		mthd = input('\033[1;32m[+]CHOOSE: ')
 		clear()
